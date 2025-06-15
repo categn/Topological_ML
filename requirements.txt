@@ -1,0 +1,9 @@
+yfinance 
+pandas
+numpy
+matplotlib
+giotto-tda
+plotly
+kaleido
+gudhi
+scipy
