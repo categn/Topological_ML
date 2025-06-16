@@ -124,8 +124,7 @@ def get_signal_date(
     Parameters:
     ----------
     signal_days : Set of time indices flagged as signal days.
-    dates : sequence of datetime-like objects (e.g., pd.Timestamp)
-        Full list of dates corresponding to the indices in the original time series.
+    dates : Full list of dates corresponding to the indices in the original time series.
 
     Returns:
     -------
