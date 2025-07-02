@@ -154,7 +154,7 @@ def get_signal_date(
 def evaluate_ews(
         crisis_dates,
         ews_dates,
-        lead_window = pd.Timedelta(days=600),
+        lead_window = pd.Timedelta(days=700),
         lag_window = pd.Timedelta(days=100)
     ) -> dict:
     
